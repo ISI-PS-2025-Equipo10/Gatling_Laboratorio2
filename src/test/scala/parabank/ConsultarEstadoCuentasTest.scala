@@ -18,7 +18,8 @@ class ConsultarEstadoCuentasTest extends Simulation{
       .get(s"/customers/$customerId/accounts")
        //Recibe información sobre el estado de las cuentas del cliente
       .check(status.is(200))
-      .check(responseTimeInMillis().lte(300))
+      .check(responseTimeInMillis.saveAs("responseTime"))
+      .check(substring("responseTime").lte(300))
     )
 
   // 3 Load Scenario
