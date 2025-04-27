@@ -4,7 +4,7 @@ import io.gatling.core.Predef._
 import io.gatling.http.Predef._
 import parabank.Data._
 
-class EstadoCuentaTest extends Simulation{
+class ConsultarEstadoCuentasTest extends Simulation{
 
   // 1 Http Conf
   val httpConf = http.baseUrl(url)
@@ -13,15 +13,23 @@ class EstadoCuentaTest extends Simulation{
     .check(status.is(200))
 
   // 2 Scenario Definition
-  val scn = scenario("EstadoCuenta").
-    exec(http("estadoCuenta")
+  val scn = scenario("Consultar estado de cuentas").
+    exec(http("ConsultarEstadoCuentas")
       .get(s"/customers/$customerId/accounts")
        //Recibe información sobre el estado de las cuentas del cliente
       .check(status.is(200))
+      .check(responseTimeInMillis().lte(300))
     )
 
   // 3 Load Scenario
   setUp(
-    scn.inject(rampUsersPerSec(5).to(15).during(30))
-  ).protocols(httpConf);
+    scn.inject(atOnceUsers(200))  //Inyecta los usuarios al mismo tiempo
+  )
+  .protocols(httpConf)
+  .assertions(
+      global.responseTime.max.lte(3000),  // Todos deben responder en menos de 3 segundos
+      global.successfulRequests.percent.gte(99) // Menos de 1% de errores
+
+  )
+   ;
 }
