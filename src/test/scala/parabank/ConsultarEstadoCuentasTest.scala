@@ -25,5 +25,13 @@ class ConsultarEstadoCuentasTest extends Simulation{
   // 3 Load Scenario
   setUp(
     scn.inject(atOnceUsers(200))  //Inyecta los usuarios al mismo tiempo
-    ).protocols(httpConf)  
+  )
+  .protocols(httpConf)
+  
+  /*.assertions(
+      global.responseTime.max.lte(3000),  // Todos deben responder en menos de 3 segundos
+      global.successfulRequests.percent.gte(99) // Menos de 1% de errores
+
+  )
+   ;*/
 }
