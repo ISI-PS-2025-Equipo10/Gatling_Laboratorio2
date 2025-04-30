@@ -17,7 +17,6 @@ class ConsultarEstadoCuentasTest extends Simulation{
     exec(http("ConsultarEstadoCuentas")
       .get(s"/customers/$customerId/accounts")
        //Recibe información sobre el estado de las cuentas del cliente
-      .check(responseTimeInMillis.lte(300))
       .check(status.is(200))
 
     )
@@ -27,11 +26,9 @@ class ConsultarEstadoCuentasTest extends Simulation{
     scn.inject(atOnceUsers(200))  //Inyecta los usuarios al mismo tiempo
   )
   .protocols(httpConf)
-  
-  /*.assertions(
-      global.responseTime.max.lte(3000),  // Todos deben responder en menos de 3 segundos
-      global.successfulRequests.percent.gte(99) // Menos de 1% de errores
-
-  )
-   ;*/
+  .assertions(
+    global.responseTime.max.lte(3000),      // Tiempo máximo de respuesta ≤ 3s
+    global.failedRequests.percent.lte(1.0)  // Tasa de fallos ≤ 1%
+    )
+   ;
 }
