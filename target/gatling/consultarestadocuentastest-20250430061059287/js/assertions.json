@@ -1,7 +1,7 @@
 {
   "simulation": "parabank.ConsultarEstadoCuentasTest",
   "simulationId": "consultarestadocuentastest",
-  "start": 1745992345403,
+  "start": 1745993459287,
   "description": "",
   "scenarios": ["Consultar estado de cuentas"],
   "assertions": [
@@ -10,18 +10,18 @@
   "target": "max of response time",
   "condition": "is less than or equal to",
   "expectedValues": [3000.0],
-  "result": false,
+  "result": true,
   "message": "Global: max of response time is less than or equal to 3000.0",
-  "actualValue": [3047.0]
+  "actualValue": [1442.0]
 },
 {
   "path": "Global",
   "target": "percentage of failed events",
   "condition": "is less than or equal to",
   "expectedValues": [1.0],
-  "result": false,
+  "result": true,
   "message": "Global: percentage of failed events is less than or equal to 1.0",
-  "actualValue": [100.0]
+  "actualValue": [0.0]
 }
   ]
 }

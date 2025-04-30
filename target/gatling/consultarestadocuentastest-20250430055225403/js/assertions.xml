@@ -1,8 +1,0 @@
-<testsuite name="parabank.ConsultarEstadoCuentasTest" tests="2" errors="0" failures="2" time="0">
-<testcase name="Global: max of response time is less than or equal to 3000.0" status="false" time="0">
-  <failure type="Global">Actual value: 3047.0</failure>
-</testcase>
-<testcase name="Global: percentage of failed events is less than or equal to 1.0" status="false" time="0">
-  <failure type="Global">Actual value: 100.0</failure>
-</testcase>
-</testsuite>

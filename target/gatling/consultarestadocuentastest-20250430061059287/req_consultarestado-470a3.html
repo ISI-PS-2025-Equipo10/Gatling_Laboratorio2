@@ -37,10 +37,10 @@
                         <div class="item "><a href="index.html">GLOBAL</a></div>
                         <div class="item ouvert"><a id="details_link" href="#">DETAILS</a></div>
                         <script type="text/javascript">
-                          var timestamp = 1745992345403;
+                          var timestamp = 1745993459287;
                           var runStartHumanDate = moment(timestamp).format("YYYY-MM-DD HH:mm:ss Z");
-                          document.writeln("<p class='sim_desc' title='"+ runStartHumanDate +", duration : 5 seconds' data-content=''>");
-                          document.writeln("<b>" + runStartHumanDate + ", duration : 5 seconds </b>");
+                          document.writeln("<p class='sim_desc' title='"+ runStartHumanDate +", duration : 3 seconds' data-content=''>");
+                          document.writeln("<b>" + runStartHumanDate + ", duration : 3 seconds </b>");
                           document.writeln("</p>");
                         </script>
                     </div>
@@ -141,28 +141,6 @@
             <div class="schema demi">
               <div id="container_indicators" class="demi"></div>
             </div>
-<div class="statistics extensible-geant collapsed">
-    <div class="title">
-        <div class="title_collapsed" style="cursor: auto;">ERRORS</div>
-    </div>
-    <table id="container_errors" class="statistics-in extensible-geant">
-        <thead>
-            <tr>
-                <th id="error-col-1" class="header sortable"><span>Error</span></th>
-                <th id="error-col-2" class="header sortable"><span>Count</span></th>
-                <th id="error-col-3" class="header sortable"><span>Percentage</span></th>
-            </tr>
-        </thead>
-		<tbody>
-		    
-		    <tr>
-		    	<td class="error-col-1 total">status.find.is(200), but actually found 400<span class="value" style="display:none">0</span></td>
-		    	<td class="value error-col-2 total">200</td>
-		    	<td class="value error-col-3 total">100 %</td>
-		    </tr>
-		</tbody>
-    </table>
-</div>
 
             <div class="schema geant">
               <div id="container_distrib" class="geant"></div>
@@ -325,7 +303,7 @@ var responseTimeDistributionChart = new Highcharts.Chart({
     text: 'A title to let highcharts reserve the place for the title set later'
   },
   xAxis: {
-    categories: ['1049', '1069', '1089', '1109', '1129', '1149', '1170', '1190', '1210', '1230', '1250', '1270', '1290', '1310', '1330', '1350', '1370', '1390', '1410', '1431', '1451', '1471', '1491', '1511', '1531', '1551', '1571', '1591', '1611', '1631', '1651', '1672', '1692', '1712', '1732', '1752', '1772', '1792', '1812', '1832', '1852', '1872', '1892', '1912', '1933', '1953', '1973', '1993', '2013', '2033', '2053', '2073', '2093', '2113', '2133', '2153', '2174', '2194', '2214', '2234', '2254', '2274', '2294', '2314', '2334', '2354', '2374', '2394', '2414', '2435', '2455', '2475', '2495', '2515', '2535', '2555', '2575', '2595', '2615', '2635', '2655', '2676', '2696', '2716', '2736', '2756', '2776', '2796', '2816', '2836', '2856', '2876', '2896', '2916', '2937', '2957', '2977', '2997', '3017', '3037', '3057'],
+    categories: ['422', '432', '443', '453', '463', '473', '484', '494', '504', '514', '525', '535', '545', '555', '566', '576', '586', '596', '607', '617', '627', '637', '648', '658', '668', '678', '689', '699', '709', '719', '730', '740', '750', '760', '771', '781', '791', '801', '812', '822', '832', '842', '853', '863', '873', '883', '894', '904', '914', '924', '935', '945', '955', '965', '976', '986', '996', '1006', '1017', '1027', '1037', '1047', '1058', '1068', '1078', '1088', '1099', '1109', '1119', '1129', '1140', '1150', '1160', '1170', '1181', '1191', '1201', '1211', '1222', '1232', '1242', '1252', '1263', '1273', '1283', '1293', '1304', '1314', '1324', '1334', '1345', '1355', '1365', '1375', '1386', '1396', '1406', '1416', '1427', '1437'],
     tickInterval: 20
   },
   yAxis: {
@@ -354,7 +332,7 @@ type: 'column',
 color: '#4572A7',
 name: 'OK',
 data: [
-  0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+  0.5,0.0,0.5,1.0,1.5,2.5,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.5,1.0,0.5,0.0,1.0,0.0,0.5,0.5,0.5,1.5,2.5,2.5,1.0,1.5,1.0,1.5,0.0,1.0,0.0,0.5,0.5,0.0,0.5,0.5,0.0,0.0,0.5,4.0,3.5,1.0,1.0,1.5,0.5,1.5,0.5,1.5,1.0,0.5,1.0,1.5,0.5,0.5,1.5,1.0,1.5,0.5,0.0,0.5,0.5,0.5,1.5,1.0,1.5,1.5,1.5,2.0,0.5,0.5,3.0,1.5,1.5,2.5,2.0,1.5,0.5,1.5,1.5,3.0,0.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.5,4.5,2.0,3.0,2.0,1.5,0.5
 ],
 tooltip: { yDecimals: 0, ySuffix: 'ms' }
 },
@@ -363,7 +341,7 @@ type: 'column',
 color: '#FF0000',
 name: 'KO',
 data: [
-  1.0,1.0,0.5,0.5,2.0,1.5,0.5,0.5,2.5,0.5,1.5,0.5,0.0,1.5,0.5,1.0,2.0,1.0,1.0,1.0,1.5,0.0,2.0,0.5,2.0,0.5,0.5,0.5,0.0,0.5,3.0,4.5,0.0,0.5,3.0,1.0,1.5,2.5,3.5,1.0,1.5,3.0,2.0,2.0,0.5,1.5,0.0,0.5,3.5,4.0,4.5,2.5,4.0,3.0,2.5,2.5,2.5,0.0,2.5,1.5,0.0,0.5,0.5,0.5,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.5,0.0,1.5,0.5,0.0,2.0,0.0
+  0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 ],
 tooltip: { yDecimals: 0, ySuffix: 'ms' }
 }
@@ -375,7 +353,7 @@ responseTimeDistributionChart.setTitle({
   useHTML: true
 });
 
-var responseTimePercentiles = unpack([[1745992348,null],[1745992349,null],[1745992350,null],[1745992351,null]]);
+var responseTimePercentiles = unpack([[1745993461,[417,761,1023,1227,1269,1378,1387,1407,1424,1442]],[1745993462,null]]);
 
 var responseTimeChart = new Highcharts.StockChart({
   chart: {
@@ -570,7 +548,7 @@ responseTimeChart.setTitle({
   useHTML: true
 });
 
-var container_requests = unpack([[1745992348,[200,200, 0]],[1745992349,[0,0, 0]],[1745992350,[0,0, 0]],[1745992351,[0,0, 0]]]);
+var container_requests = unpack([[1745993461,[200,0, 200]],[1745993462,[0,0, 0]]]);
 
 var requestsChart = new Highcharts.StockChart({
   chart: {
@@ -679,7 +657,7 @@ requestsChart.setTitle({
   useHTML: true
 });
 
-var container_responses = unpack([[1745992348,[0,0, 0]],[1745992349,[36,36, 0]],[1745992350,[154,154, 0]],[1745992351,[10,10, 0]]]);
+var container_responses = unpack([[1745993461,[0,0, 0]],[1745993462,[200,0, 200]]]);
 
 var requestsChart = new Highcharts.StockChart({
   chart: {
@@ -797,7 +775,7 @@ tooltip: { yDecimals: 0, ySuffix: '', valueDecimals: 0 }
 type: 'pie',
 name: 'Distribution',
 data: [
-  {name: 'OK', y: 0.0, color: '#A0B228'},{name: 'KO', y: 200.0, color: '#FF0000'}
+  {name: 'OK', y: 200.0, color: '#A0B228'},{name: 'KO', y: 0.0, color: '#FF0000'}
 ],
 center: [775, -40],
 size: 70,
@@ -882,14 +860,14 @@ type: 'scatter',
 color: 'rgba(69, 114, 167, .2)',
 name: 'OK',
 data: [
-[]
+[200,1407]
 ]},
 	  {
 type: 'scatter',
 color: 'rgba(255, 0, 0, .2)',
 name: 'KO',
 data: [
-[200,2361]
+[]
 ]}
 	]
 });
