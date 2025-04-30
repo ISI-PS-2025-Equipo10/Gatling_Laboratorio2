@@ -1,0 +1,10 @@
+{
+  "simulation": "parabank.LoginTest",
+  "simulationId": "logintest",
+  "start": 1746056516673,
+  "description": "",
+  "scenarios": ["Login"],
+  "assertions": [
+
+  ]
+}
