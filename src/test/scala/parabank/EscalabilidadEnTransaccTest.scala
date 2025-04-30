@@ -15,7 +15,7 @@ class EscalabilidadEnTransaccTest extends Simulation{
     val scn = scenario("Probar escalabilidad en transacciones").
         exec(http("EscalabilidadEnTransacc")
             .post(s"/transfer?fromAccountId=$fromAccountId&toAccountId=$toAccountId&amount=$ammountTransfer")
-            //Recibe información sobre el estado de las cuentas del cliente
+            //Envía información de la transacción en el cuerpo de la solicitud
             .check(status.is(200))
 
         )
