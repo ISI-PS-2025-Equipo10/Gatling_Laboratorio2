@@ -16,7 +16,7 @@ class PagoDeServicios extends Simulation {
   val scn = scenario("Pago de servicios con concurrencia alta")
     .exec(
       http("PagoDeServicios")
-        .post("/billpay")
+        .post(s"/billpay?accountId=$fromAccountId&amount=$amountBill")
         .body(StringBody(
           s"""{
             "name": "$name",
@@ -27,11 +27,10 @@ class PagoDeServicios extends Simulation {
               "zipCode": "$zipCode"
             },
             "phoneNumber": "$phoneNumber",
-            "accountNumber": $fromAccountId,
-            "amount": $amountBill
+            "accountNumber": $fromAccountId
           }"""
         )).asJson
-        .check(status.is(200))
+        .check(status.is(200)) // Espera respuesta 200
     )
 
   // 3 Load Scenario
