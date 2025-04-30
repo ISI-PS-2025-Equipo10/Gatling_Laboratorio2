@@ -1,0 +1,601 @@
+RUN	parabank.ConsultarEstadoCuentasTest	consultarestadocuentastest	1745973020721	 	3.3.1
+USER	Consultar estado de cuentas	7	START	1745973022947	1745973022947
+USER	Consultar estado de cuentas	25	START	1745973023063	1745973023063
+USER	Consultar estado de cuentas	20	START	1745973022952	1745973022952
+USER	Consultar estado de cuentas	9	START	1745973022947	1745973022947
+USER	Consultar estado de cuentas	10	START	1745973022948	1745973022948
+USER	Consultar estado de cuentas	11	START	1745973022948	1745973022948
+USER	Consultar estado de cuentas	18	START	1745973022949	1745973022949
+USER	Consultar estado de cuentas	17	START	1745973022950	1745973022950
+USER	Consultar estado de cuentas	13	START	1745973022948	1745973022948
+USER	Consultar estado de cuentas	12	START	1745973022948	1745973022948
+USER	Consultar estado de cuentas	26	START	1745973023064	1745973023064
+USER	Consultar estado de cuentas	28	START	1745973023065	1745973023065
+USER	Consultar estado de cuentas	29	START	1745973023065	1745973023065
+USER	Consultar estado de cuentas	30	START	1745973023065	1745973023065
+USER	Consultar estado de cuentas	32	START	1745973023065	1745973023065
+USER	Consultar estado de cuentas	27	START	1745973023065	1745973023065
+USER	Consultar estado de cuentas	33	START	1745973023065	1745973023065
+USER	Consultar estado de cuentas	35	START	1745973023066	1745973023066
+USER	Consultar estado de cuentas	34	START	1745973023066	1745973023066
+USER	Consultar estado de cuentas	37	START	1745973023066	1745973023066
+USER	Consultar estado de cuentas	39	START	1745973023066	1745973023066
+USER	Consultar estado de cuentas	36	START	1745973023066	1745973023066
+USER	Consultar estado de cuentas	31	START	1745973023065	1745973023065
+USER	Consultar estado de cuentas	38	START	1745973023066	1745973023066
+USER	Consultar estado de cuentas	41	START	1745973023066	1745973023066
+USER	Consultar estado de cuentas	43	START	1745973023066	1745973023066
+USER	Consultar estado de cuentas	42	START	1745973023066	1745973023066
+USER	Consultar estado de cuentas	40	START	1745973023066	1745973023066
+USER	Consultar estado de cuentas	45	START	1745973023067	1745973023067
+USER	Consultar estado de cuentas	46	START	1745973023067	1745973023067
+USER	Consultar estado de cuentas	51	START	1745973023067	1745973023067
+USER	Consultar estado de cuentas	47	START	1745973023067	1745973023067
+USER	Consultar estado de cuentas	49	START	1745973023067	1745973023067
+USER	Consultar estado de cuentas	50	START	1745973023067	1745973023067
+USER	Consultar estado de cuentas	48	START	1745973023067	1745973023067
+USER	Consultar estado de cuentas	44	START	1745973023067	1745973023067
+USER	Consultar estado de cuentas	52	START	1745973023067	1745973023067
+USER	Consultar estado de cuentas	53	START	1745973023068	1745973023068
+USER	Consultar estado de cuentas	59	START	1745973023068	1745973023068
+USER	Consultar estado de cuentas	56	START	1745973023068	1745973023068
+USER	Consultar estado de cuentas	58	START	1745973023068	1745973023068
+USER	Consultar estado de cuentas	54	START	1745973023068	1745973023068
+USER	Consultar estado de cuentas	57	START	1745973023068	1745973023068
+USER	Consultar estado de cuentas	55	START	1745973023068	1745973023068
+USER	Consultar estado de cuentas	66	START	1745973023069	1745973023069
+USER	Consultar estado de cuentas	60	START	1745973023069	1745973023069
+USER	Consultar estado de cuentas	61	START	1745973023069	1745973023069
+USER	Consultar estado de cuentas	64	START	1745973023069	1745973023069
+USER	Consultar estado de cuentas	65	START	1745973023069	1745973023069
+USER	Consultar estado de cuentas	62	START	1745973023069	1745973023069
+USER	Consultar estado de cuentas	63	START	1745973023069	1745973023069
+USER	Consultar estado de cuentas	15	START	1745973022949	1745973022949
+USER	Consultar estado de cuentas	5	START	1745973022947	1745973022947
+USER	Consultar estado de cuentas	71	START	1745973023069	1745973023069
+USER	Consultar estado de cuentas	70	START	1745973023069	1745973023069
+USER	Consultar estado de cuentas	67	START	1745973023069	1745973023069
+USER	Consultar estado de cuentas	68	START	1745973023069	1745973023069
+USER	Consultar estado de cuentas	72	START	1745973023069	1745973023069
+USER	Consultar estado de cuentas	73	START	1745973023069	1745973023069
+USER	Consultar estado de cuentas	75	START	1745973023070	1745973023070
+USER	Consultar estado de cuentas	74	START	1745973023070	1745973023070
+USER	Consultar estado de cuentas	80	START	1745973023070	1745973023070
+USER	Consultar estado de cuentas	76	START	1745973023070	1745973023070
+USER	Consultar estado de cuentas	82	START	1745973023070	1745973023070
+USER	Consultar estado de cuentas	79	START	1745973023070	1745973023070
+USER	Consultar estado de cuentas	77	START	1745973023070	1745973023070
+USER	Consultar estado de cuentas	78	START	1745973023070	1745973023070
+USER	Consultar estado de cuentas	83	START	1745973023070	1745973023070
+USER	Consultar estado de cuentas	81	START	1745973023070	1745973023070
+USER	Consultar estado de cuentas	87	START	1745973023071	1745973023071
+USER	Consultar estado de cuentas	89	START	1745973023071	1745973023071
+USER	Consultar estado de cuentas	88	START	1745973023071	1745973023071
+USER	Consultar estado de cuentas	84	START	1745973023071	1745973023071
+USER	Consultar estado de cuentas	85	START	1745973023071	1745973023071
+USER	Consultar estado de cuentas	86	START	1745973023071	1745973023071
+USER	Consultar estado de cuentas	90	START	1745973023071	1745973023071
+USER	Consultar estado de cuentas	91	START	1745973023071	1745973023071
+USER	Consultar estado de cuentas	23	START	1745973022954	1745973022954
+USER	Consultar estado de cuentas	98	START	1745973023071	1745973023071
+USER	Consultar estado de cuentas	97	START	1745973023071	1745973023071
+USER	Consultar estado de cuentas	69	START	1745973023069	1745973023069
+USER	Consultar estado de cuentas	92	START	1745973023071	1745973023071
+USER	Consultar estado de cuentas	96	START	1745973023071	1745973023071
+USER	Consultar estado de cuentas	95	START	1745973023071	1745973023071
+USER	Consultar estado de cuentas	94	START	1745973023071	1745973023071
+USER	Consultar estado de cuentas	100	START	1745973023072	1745973023072
+USER	Consultar estado de cuentas	106	START	1745973023072	1745973023072
+USER	Consultar estado de cuentas	104	START	1745973023072	1745973023072
+USER	Consultar estado de cuentas	101	START	1745973023072	1745973023072
+USER	Consultar estado de cuentas	102	START	1745973023072	1745973023072
+USER	Consultar estado de cuentas	103	START	1745973023072	1745973023072
+USER	Consultar estado de cuentas	105	START	1745973023072	1745973023072
+USER	Consultar estado de cuentas	107	START	1745973023072	1745973023072
+USER	Consultar estado de cuentas	108	START	1745973023072	1745973023072
+USER	Consultar estado de cuentas	109	START	1745973023073	1745973023073
+USER	Consultar estado de cuentas	113	START	1745973023073	1745973023073
+USER	Consultar estado de cuentas	110	START	1745973023073	1745973023073
+USER	Consultar estado de cuentas	115	START	1745973023073	1745973023073
+USER	Consultar estado de cuentas	116	START	1745973023073	1745973023073
+USER	Consultar estado de cuentas	111	START	1745973023073	1745973023073
+USER	Consultar estado de cuentas	112	START	1745973023073	1745973023073
+USER	Consultar estado de cuentas	114	START	1745973023073	1745973023073
+USER	Consultar estado de cuentas	118	START	1745973023073	1745973023073
+USER	Consultar estado de cuentas	121	START	1745973023073	1745973023073
+USER	Consultar estado de cuentas	122	START	1745973023073	1745973023073
+USER	Consultar estado de cuentas	123	START	1745973023073	1745973023073
+USER	Consultar estado de cuentas	117	START	1745973023073	1745973023073
+USER	Consultar estado de cuentas	124	START	1745973023073	1745973023073
+USER	Consultar estado de cuentas	120	START	1745973023073	1745973023073
+USER	Consultar estado de cuentas	119	START	1745973023073	1745973023073
+USER	Consultar estado de cuentas	3	START	1745973022946	1745973022946
+USER	Consultar estado de cuentas	14	START	1745973022948	1745973022948
+USER	Consultar estado de cuentas	128	START	1745973023074	1745973023074
+USER	Consultar estado de cuentas	127	START	1745973023074	1745973023074
+USER	Consultar estado de cuentas	93	START	1745973023071	1745973023071
+USER	Consultar estado de cuentas	129	START	1745973023074	1745973023074
+USER	Consultar estado de cuentas	130	START	1745973023074	1745973023074
+USER	Consultar estado de cuentas	132	START	1745973023074	1745973023074
+USER	Consultar estado de cuentas	134	START	1745973023074	1745973023074
+USER	Consultar estado de cuentas	133	START	1745973023074	1745973023074
+USER	Consultar estado de cuentas	135	START	1745973023075	1745973023075
+USER	Consultar estado de cuentas	125	START	1745973023074	1745973023074
+USER	Consultar estado de cuentas	99	START	1745973023071	1745973023071
+USER	Consultar estado de cuentas	142	START	1745973023075	1745973023075
+USER	Consultar estado de cuentas	140	START	1745973023075	1745973023075
+USER	Consultar estado de cuentas	138	START	1745973023075	1745973023075
+USER	Consultar estado de cuentas	139	START	1745973023075	1745973023075
+USER	Consultar estado de cuentas	136	START	1745973023075	1745973023075
+USER	Consultar estado de cuentas	148	START	1745973023076	1745973023076
+USER	Consultar estado de cuentas	145	START	1745973023076	1745973023076
+USER	Consultar estado de cuentas	143	START	1745973023076	1745973023076
+USER	Consultar estado de cuentas	147	START	1745973023076	1745973023076
+USER	Consultar estado de cuentas	150	START	1745973023076	1745973023076
+USER	Consultar estado de cuentas	149	START	1745973023076	1745973023076
+USER	Consultar estado de cuentas	146	START	1745973023076	1745973023076
+USER	Consultar estado de cuentas	144	START	1745973023076	1745973023076
+USER	Consultar estado de cuentas	152	START	1745973023076	1745973023076
+USER	Consultar estado de cuentas	157	START	1745973023076	1745973023076
+USER	Consultar estado de cuentas	155	START	1745973023076	1745973023076
+USER	Consultar estado de cuentas	151	START	1745973023076	1745973023076
+USER	Consultar estado de cuentas	153	START	1745973023076	1745973023076
+USER	Consultar estado de cuentas	156	START	1745973023076	1745973023076
+USER	Consultar estado de cuentas	154	START	1745973023076	1745973023076
+USER	Consultar estado de cuentas	158	START	1745973023076	1745973023076
+USER	Consultar estado de cuentas	163	START	1745973023077	1745973023077
+USER	Consultar estado de cuentas	165	START	1745973023077	1745973023077
+USER	Consultar estado de cuentas	159	START	1745973023077	1745973023077
+USER	Consultar estado de cuentas	164	START	1745973023077	1745973023077
+USER	Consultar estado de cuentas	166	START	1745973023077	1745973023077
+USER	Consultar estado de cuentas	162	START	1745973023077	1745973023077
+USER	Consultar estado de cuentas	161	START	1745973023077	1745973023077
+USER	Consultar estado de cuentas	141	START	1745973023075	1745973023075
+USER	Consultar estado de cuentas	173	START	1745973023078	1745973023078
+USER	Consultar estado de cuentas	172	START	1745973023078	1745973023078
+USER	Consultar estado de cuentas	174	START	1745973023078	1745973023078
+USER	Consultar estado de cuentas	169	START	1745973023078	1745973023078
+USER	Consultar estado de cuentas	170	START	1745973023078	1745973023078
+USER	Consultar estado de cuentas	171	START	1745973023078	1745973023078
+USER	Consultar estado de cuentas	168	START	1745973023078	1745973023078
+USER	Consultar estado de cuentas	167	START	1745973023078	1745973023078
+USER	Consultar estado de cuentas	175	START	1745973023079	1745973023079
+USER	Consultar estado de cuentas	176	START	1745973023079	1745973023079
+USER	Consultar estado de cuentas	180	START	1745973023079	1745973023079
+USER	Consultar estado de cuentas	179	START	1745973023079	1745973023079
+USER	Consultar estado de cuentas	181	START	1745973023079	1745973023079
+USER	Consultar estado de cuentas	182	START	1745973023079	1745973023079
+USER	Consultar estado de cuentas	177	START	1745973023079	1745973023079
+USER	Consultar estado de cuentas	178	START	1745973023079	1745973023079
+USER	Consultar estado de cuentas	22	START	1745973022954	1745973022954
+USER	Consultar estado de cuentas	126	START	1745973023074	1745973023074
+USER	Consultar estado de cuentas	188	START	1745973023079	1745973023079
+USER	Consultar estado de cuentas	186	START	1745973023079	1745973023079
+USER	Consultar estado de cuentas	183	START	1745973023079	1745973023079
+USER	Consultar estado de cuentas	191	START	1745973023080	1745973023080
+USER	Consultar estado de cuentas	190	START	1745973023079	1745973023079
+USER	Consultar estado de cuentas	160	START	1745973023077	1745973023077
+USER	Consultar estado de cuentas	194	START	1745973023080	1745973023080
+USER	Consultar estado de cuentas	193	START	1745973023080	1745973023080
+USER	Consultar estado de cuentas	192	START	1745973023080	1745973023080
+USER	Consultar estado de cuentas	195	START	1745973023080	1745973023080
+USER	Consultar estado de cuentas	196	START	1745973023080	1745973023080
+USER	Consultar estado de cuentas	197	START	1745973023080	1745973023080
+USER	Consultar estado de cuentas	198	START	1745973023081	1745973023081
+USER	Consultar estado de cuentas	185	START	1745973023079	1745973023079
+USER	Consultar estado de cuentas	199	START	1745973023081	1745973023081
+USER	Consultar estado de cuentas	200	START	1745973023081	1745973023081
+USER	Consultar estado de cuentas	24	START	1745973022972	1745973022972
+USER	Consultar estado de cuentas	2	START	1745973022946	1745973022946
+USER	Consultar estado de cuentas	189	START	1745973023079	1745973023079
+USER	Consultar estado de cuentas	184	START	1745973023079	1745973023079
+USER	Consultar estado de cuentas	1	START	1745973022946	1745973022946
+USER	Consultar estado de cuentas	6	START	1745973022947	1745973022947
+USER	Consultar estado de cuentas	16	START	1745973022949	1745973022949
+USER	Consultar estado de cuentas	137	START	1745973023075	1745973023075
+USER	Consultar estado de cuentas	131	START	1745973023074	1745973023074
+USER	Consultar estado de cuentas	21	START	1745973022953	1745973022953
+USER	Consultar estado de cuentas	4	START	1745973022946	1745973022946
+USER	Consultar estado de cuentas	8	START	1745973022947	1745973022947
+USER	Consultar estado de cuentas	19	START	1745973022951	1745973022951
+USER	Consultar estado de cuentas	187	START	1745973023079	1745973023079
+REQUEST	21		ConsultarEstadoCuentas	1745973023050	1745973023593	KO	responseTimeInMillis.find.lessThanOrEqual(300), 543 is not less than or equal to 300
+REQUEST	17		ConsultarEstadoCuentas	1745973023050	1745973023601	KO	responseTimeInMillis.find.lessThanOrEqual(300), 551 is not less than or equal to 300
+REQUEST	140		ConsultarEstadoCuentas	1745973023076	1745973023631	KO	responseTimeInMillis.find.lessThanOrEqual(300), 555 is not less than or equal to 300
+REQUEST	103		ConsultarEstadoCuentas	1745973023073	1745973023631	KO	responseTimeInMillis.find.lessThanOrEqual(300), 558 is not less than or equal to 300
+REQUEST	125		ConsultarEstadoCuentas	1745973023076	1745973023631	KO	responseTimeInMillis.find.lessThanOrEqual(300), 555 is not less than or equal to 300
+REQUEST	62		ConsultarEstadoCuentas	1745973023069	1745973023632	KO	responseTimeInMillis.find.lessThanOrEqual(300), 563 is not less than or equal to 300
+USER	Consultar estado de cuentas	103	END	1745973023072	1745973023633
+USER	Consultar estado de cuentas	17	END	1745973022950	1745973023633
+USER	Consultar estado de cuentas	21	END	1745973022953	1745973023633
+USER	Consultar estado de cuentas	125	END	1745973023074	1745973023633
+USER	Consultar estado de cuentas	140	END	1745973023075	1745973023633
+USER	Consultar estado de cuentas	62	END	1745973023069	1745973023633
+REQUEST	49		ConsultarEstadoCuentas	1745973023068	1745973023635	KO	responseTimeInMillis.find.lessThanOrEqual(300), 567 is not less than or equal to 300
+REQUEST	109		ConsultarEstadoCuentas	1745973023073	1745973023635	KO	responseTimeInMillis.find.lessThanOrEqual(300), 562 is not less than or equal to 300
+USER	Consultar estado de cuentas	109	END	1745973023073	1745973023636
+USER	Consultar estado de cuentas	49	END	1745973023067	1745973023636
+REQUEST	29		ConsultarEstadoCuentas	1745973023066	1745973023637	KO	responseTimeInMillis.find.lessThanOrEqual(300), 571 is not less than or equal to 300
+USER	Consultar estado de cuentas	29	END	1745973023065	1745973023638
+REQUEST	99		ConsultarEstadoCuentas	1745973023076	1745973023656	KO	responseTimeInMillis.find.lessThanOrEqual(300), 580 is not less than or equal to 300
+REQUEST	161		ConsultarEstadoCuentas	1745973023078	1745973023657	KO	responseTimeInMillis.find.lessThanOrEqual(300), 579 is not less than or equal to 300
+USER	Consultar estado de cuentas	99	END	1745973023071	1745973023658
+USER	Consultar estado de cuentas	161	END	1745973023077	1745973023659
+REQUEST	63		ConsultarEstadoCuentas	1745973023069	1745973023661	KO	responseTimeInMillis.find.lessThanOrEqual(300), 592 is not less than or equal to 300
+USER	Consultar estado de cuentas	63	END	1745973023069	1745973023663
+REQUEST	26		ConsultarEstadoCuentas	1745973023065	1745973023750	KO	responseTimeInMillis.find.lessThanOrEqual(300), 685 is not less than or equal to 300
+REQUEST	128		ConsultarEstadoCuentas	1745973023075	1745973023750	KO	responseTimeInMillis.find.lessThanOrEqual(300), 675 is not less than or equal to 300
+REQUEST	73		ConsultarEstadoCuentas	1745973023070	1745973023751	KO	responseTimeInMillis.find.lessThanOrEqual(300), 681 is not less than or equal to 300
+USER	Consultar estado de cuentas	73	END	1745973023069	1745973023752
+USER	Consultar estado de cuentas	26	END	1745973023064	1745973023752
+USER	Consultar estado de cuentas	128	END	1745973023074	1745973023752
+REQUEST	176		ConsultarEstadoCuentas	1745973023079	1745973023753	KO	responseTimeInMillis.find.lessThanOrEqual(300), 674 is not less than or equal to 300
+USER	Consultar estado de cuentas	176	END	1745973023079	1745973023754
+REQUEST	22		ConsultarEstadoCuentas	1745973023050	1745973023762	KO	responseTimeInMillis.find.lessThanOrEqual(300), 712 is not less than or equal to 300
+USER	Consultar estado de cuentas	22	END	1745973022954	1745973023764
+REQUEST	36		ConsultarEstadoCuentas	1745973023066	1745973023864	KO	responseTimeInMillis.find.lessThanOrEqual(300), 798 is not less than or equal to 300
+USER	Consultar estado de cuentas	36	END	1745973023066	1745973023866
+REQUEST	126		ConsultarEstadoCuentas	1745973023080	1745973023870	KO	responseTimeInMillis.find.lessThanOrEqual(300), 790 is not less than or equal to 300
+REQUEST	134		ConsultarEstadoCuentas	1745973023075	1745973023870	KO	responseTimeInMillis.find.lessThanOrEqual(300), 795 is not less than or equal to 300
+REQUEST	98		ConsultarEstadoCuentas	1745973023072	1745973023870	KO	responseTimeInMillis.find.lessThanOrEqual(300), 798 is not less than or equal to 300
+USER	Consultar estado de cuentas	126	END	1745973023074	1745973023871
+USER	Consultar estado de cuentas	98	END	1745973023071	1745973023871
+USER	Consultar estado de cuentas	134	END	1745973023074	1745973023871
+REQUEST	106		ConsultarEstadoCuentas	1745973023073	1745973023873	KO	responseTimeInMillis.find.lessThanOrEqual(300), 800 is not less than or equal to 300
+USER	Consultar estado de cuentas	106	END	1745973023072	1745973023874
+REQUEST	121		ConsultarEstadoCuentas	1745973023074	1745973023931	KO	responseTimeInMillis.find.lessThanOrEqual(300), 857 is not less than or equal to 300
+REQUEST	168		ConsultarEstadoCuentas	1745973023078	1745973023930	KO	responseTimeInMillis.find.lessThanOrEqual(300), 852 is not less than or equal to 300
+REQUEST	86		ConsultarEstadoCuentas	1745973023071	1745973023931	KO	responseTimeInMillis.find.lessThanOrEqual(300), 860 is not less than or equal to 300
+USER	Consultar estado de cuentas	121	END	1745973023073	1745973023932
+USER	Consultar estado de cuentas	168	END	1745973023078	1745973023932
+USER	Consultar estado de cuentas	86	END	1745973023071	1745973023932
+REQUEST	57		ConsultarEstadoCuentas	1745973023068	1745973023932	KO	responseTimeInMillis.find.lessThanOrEqual(300), 864 is not less than or equal to 300
+REQUEST	88		ConsultarEstadoCuentas	1745973023071	1745973023932	KO	responseTimeInMillis.find.lessThanOrEqual(300), 861 is not less than or equal to 300
+USER	Consultar estado de cuentas	57	END	1745973023068	1745973023933
+USER	Consultar estado de cuentas	88	END	1745973023071	1745973023934
+REQUEST	195		ConsultarEstadoCuentas	1745973023081	1745973023934	KO	responseTimeInMillis.find.lessThanOrEqual(300), 853 is not less than or equal to 300
+REQUEST	132		ConsultarEstadoCuentas	1745973023075	1745973023934	KO	responseTimeInMillis.find.lessThanOrEqual(300), 859 is not less than or equal to 300
+USER	Consultar estado de cuentas	132	END	1745973023074	1745973023935
+USER	Consultar estado de cuentas	195	END	1745973023080	1745973023935
+REQUEST	171		ConsultarEstadoCuentas	1745973023078	1745973023940	KO	responseTimeInMillis.find.lessThanOrEqual(300), 862 is not less than or equal to 300
+USER	Consultar estado de cuentas	171	END	1745973023078	1745973023942
+REQUEST	25		ConsultarEstadoCuentas	1745973023064	1745973023942	KO	responseTimeInMillis.find.lessThanOrEqual(300), 878 is not less than or equal to 300
+REQUEST	158		ConsultarEstadoCuentas	1745973023077	1745973023942	KO	responseTimeInMillis.find.lessThanOrEqual(300), 865 is not less than or equal to 300
+REQUEST	115		ConsultarEstadoCuentas	1745973023073	1745973023944	KO	responseTimeInMillis.find.lessThanOrEqual(300), 871 is not less than or equal to 300
+USER	Consultar estado de cuentas	25	END	1745973023063	1745973023943
+USER	Consultar estado de cuentas	158	END	1745973023076	1745973023943
+USER	Consultar estado de cuentas	115	END	1745973023073	1745973023945
+REQUEST	200		ConsultarEstadoCuentas	1745973023081	1745973023947	KO	responseTimeInMillis.find.lessThanOrEqual(300), 866 is not less than or equal to 300
+REQUEST	68		ConsultarEstadoCuentas	1745973023070	1745973023947	KO	responseTimeInMillis.find.lessThanOrEqual(300), 877 is not less than or equal to 300
+USER	Consultar estado de cuentas	68	END	1745973023069	1745973023948
+USER	Consultar estado de cuentas	200	END	1745973023081	1745973023948
+REQUEST	23		ConsultarEstadoCuentas	1745973023050	1745973023965	KO	responseTimeInMillis.find.lessThanOrEqual(300), 915 is not less than or equal to 300
+USER	Consultar estado de cuentas	23	END	1745973022954	1745973023967
+REQUEST	16		ConsultarEstadoCuentas	1745973023050	1745973023976	KO	responseTimeInMillis.find.lessThanOrEqual(300), 926 is not less than or equal to 300
+USER	Consultar estado de cuentas	16	END	1745973022949	1745973023977
+REQUEST	9		ConsultarEstadoCuentas	1745973023050	1745973023990	KO	responseTimeInMillis.find.lessThanOrEqual(300), 940 is not less than or equal to 300
+REQUEST	4		ConsultarEstadoCuentas	1745973023050	1745973023990	KO	responseTimeInMillis.find.lessThanOrEqual(300), 940 is not less than or equal to 300
+USER	Consultar estado de cuentas	9	END	1745973022947	1745973023992
+USER	Consultar estado de cuentas	4	END	1745973022946	1745973023992
+REQUEST	141		ConsultarEstadoCuentas	1745973023078	1745973023991	KO	responseTimeInMillis.find.lessThanOrEqual(300), 913 is not less than or equal to 300
+USER	Consultar estado de cuentas	141	END	1745973023075	1745973023994
+REQUEST	66		ConsultarEstadoCuentas	1745973023069	1745973023996	KO	responseTimeInMillis.find.lessThanOrEqual(300), 927 is not less than or equal to 300
+USER	Consultar estado de cuentas	66	END	1745973023069	1745973023997
+REQUEST	6		ConsultarEstadoCuentas	1745973023050	1745973023998	KO	responseTimeInMillis.find.lessThanOrEqual(300), 948 is not less than or equal to 300
+USER	Consultar estado de cuentas	6	END	1745973022947	1745973023999
+REQUEST	30		ConsultarEstadoCuentas	1745973023066	1745973024006	KO	responseTimeInMillis.find.lessThanOrEqual(300), 940 is not less than or equal to 300
+USER	Consultar estado de cuentas	30	END	1745973023065	1745973024007
+REQUEST	186		ConsultarEstadoCuentas	1745973023080	1745973024008	KO	responseTimeInMillis.find.lessThanOrEqual(300), 928 is not less than or equal to 300
+REQUEST	92		ConsultarEstadoCuentas	1745973023072	1745973024009	KO	responseTimeInMillis.find.lessThanOrEqual(300), 937 is not less than or equal to 300
+USER	Consultar estado de cuentas	186	END	1745973023079	1745973024009
+USER	Consultar estado de cuentas	92	END	1745973023071	1745973024009
+REQUEST	60		ConsultarEstadoCuentas	1745973023069	1745973024021	KO	responseTimeInMillis.find.lessThanOrEqual(300), 952 is not less than or equal to 300
+USER	Consultar estado de cuentas	60	END	1745973023069	1745973024022
+REQUEST	154		ConsultarEstadoCuentas	1745973023077	1745973024050	KO	responseTimeInMillis.find.lessThanOrEqual(300), 973 is not less than or equal to 300
+USER	Consultar estado de cuentas	154	END	1745973023076	1745973024051
+REQUEST	90		ConsultarEstadoCuentas	1745973023071	1745973024071	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1000 is not less than or equal to 300
+USER	Consultar estado de cuentas	90	END	1745973023071	1745973024073
+REQUEST	12		ConsultarEstadoCuentas	1745973023050	1745973024118	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1068 is not less than or equal to 300
+REQUEST	15		ConsultarEstadoCuentas	1745973023050	1745973024118	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1068 is not less than or equal to 300
+REQUEST	10		ConsultarEstadoCuentas	1745973023050	1745973024118	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1068 is not less than or equal to 300
+REQUEST	18		ConsultarEstadoCuentas	1745973023050	1745973024118	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1068 is not less than or equal to 300
+REQUEST	40		ConsultarEstadoCuentas	1745973023067	1745973024118	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1051 is not less than or equal to 300
+USER	Consultar estado de cuentas	10	END	1745973022948	1745973024119
+USER	Consultar estado de cuentas	18	END	1745973022949	1745973024119
+USER	Consultar estado de cuentas	15	END	1745973022949	1745973024119
+USER	Consultar estado de cuentas	40	END	1745973023066	1745973024119
+USER	Consultar estado de cuentas	12	END	1745973022948	1745973024119
+REQUEST	32		ConsultarEstadoCuentas	1745973023066	1745973024120	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1054 is not less than or equal to 300
+USER	Consultar estado de cuentas	32	END	1745973023065	1745973024121
+REQUEST	5		ConsultarEstadoCuentas	1745973023050	1745973024123	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1073 is not less than or equal to 300
+USER	Consultar estado de cuentas	5	END	1745973022947	1745973024124
+REQUEST	71		ConsultarEstadoCuentas	1745973023070	1745973024125	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1055 is not less than or equal to 300
+REQUEST	13		ConsultarEstadoCuentas	1745973023051	1745973024125	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1074 is not less than or equal to 300
+USER	Consultar estado de cuentas	13	END	1745973022948	1745973024126
+USER	Consultar estado de cuentas	71	END	1745973023069	1745973024126
+REQUEST	74		ConsultarEstadoCuentas	1745973023070	1745973024140	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1070 is not less than or equal to 300
+USER	Consultar estado de cuentas	74	END	1745973023070	1745973024141
+REQUEST	3		ConsultarEstadoCuentas	1745973023050	1745973024143	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1093 is not less than or equal to 300
+USER	Consultar estado de cuentas	3	END	1745973022946	1745973024144
+REQUEST	54		ConsultarEstadoCuentas	1745973023068	1745973024159	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1091 is not less than or equal to 300
+USER	Consultar estado de cuentas	54	END	1745973023068	1745973024161
+REQUEST	112		ConsultarEstadoCuentas	1745973023073	1745973024164	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1091 is not less than or equal to 300
+USER	Consultar estado de cuentas	112	END	1745973023073	1745973024165
+REQUEST	47		ConsultarEstadoCuentas	1745973023068	1745973024166	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1098 is not less than or equal to 300
+USER	Consultar estado de cuentas	47	END	1745973023067	1745973024167
+REQUEST	122		ConsultarEstadoCuentas	1745973023074	1745973024170	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1096 is not less than or equal to 300
+USER	Consultar estado de cuentas	122	END	1745973023073	1745973024171
+REQUEST	58		ConsultarEstadoCuentas	1745973023068	1745973024181	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1113 is not less than or equal to 300
+USER	Consultar estado de cuentas	58	END	1745973023068	1745973024182
+REQUEST	39		ConsultarEstadoCuentas	1745973023066	1745973024200	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1134 is not less than or equal to 300
+REQUEST	93		ConsultarEstadoCuentas	1745973023075	1745973024200	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1125 is not less than or equal to 300
+REQUEST	78		ConsultarEstadoCuentas	1745973023071	1745973024200	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1129 is not less than or equal to 300
+REQUEST	105		ConsultarEstadoCuentas	1745973023073	1745973024200	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1127 is not less than or equal to 300
+USER	Consultar estado de cuentas	105	END	1745973023072	1745973024202
+USER	Consultar estado de cuentas	93	END	1745973023071	1745973024202
+USER	Consultar estado de cuentas	78	END	1745973023070	1745973024202
+USER	Consultar estado de cuentas	39	END	1745973023066	1745973024202
+REQUEST	42		ConsultarEstadoCuentas	1745973023067	1745973024204	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1137 is not less than or equal to 300
+REQUEST	14		ConsultarEstadoCuentas	1745973023050	1745973024204	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1154 is not less than or equal to 300
+USER	Consultar estado de cuentas	42	END	1745973023066	1745973024205
+USER	Consultar estado de cuentas	14	END	1745973022948	1745973024205
+REQUEST	51		ConsultarEstadoCuentas	1745973023068	1745973024210	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1142 is not less than or equal to 300
+USER	Consultar estado de cuentas	51	END	1745973023067	1745973024211
+REQUEST	80		ConsultarEstadoCuentas	1745973023071	1745973024213	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1142 is not less than or equal to 300
+USER	Consultar estado de cuentas	80	END	1745973023070	1745973024214
+REQUEST	145		ConsultarEstadoCuentas	1745973023076	1745973024260	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1184 is not less than or equal to 300
+REQUEST	59		ConsultarEstadoCuentas	1745973023068	1745973024260	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1192 is not less than or equal to 300
+USER	Consultar estado de cuentas	145	END	1745973023076	1745973024262
+USER	Consultar estado de cuentas	59	END	1745973023068	1745973024262
+REQUEST	72		ConsultarEstadoCuentas	1745973023070	1745973024274	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1204 is not less than or equal to 300
+USER	Consultar estado de cuentas	72	END	1745973023069	1745973024275
+REQUEST	85		ConsultarEstadoCuentas	1745973023071	1745973024277	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1206 is not less than or equal to 300
+USER	Consultar estado de cuentas	85	END	1745973023071	1745973024278
+REQUEST	31		ConsultarEstadoCuentas	1745973023066	1745973024280	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1214 is not less than or equal to 300
+USER	Consultar estado de cuentas	31	END	1745973023065	1745973024281
+REQUEST	41		ConsultarEstadoCuentas	1745973023067	1745973024281	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1214 is not less than or equal to 300
+REQUEST	133		ConsultarEstadoCuentas	1745973023075	1745973024282	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1207 is not less than or equal to 300
+USER	Consultar estado de cuentas	41	END	1745973023066	1745973024283
+USER	Consultar estado de cuentas	133	END	1745973023074	1745973024285
+REQUEST	181		ConsultarEstadoCuentas	1745973023079	1745973024285	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1206 is not less than or equal to 300
+USER	Consultar estado de cuentas	181	END	1745973023079	1745973024286
+REQUEST	110		ConsultarEstadoCuentas	1745973023073	1745973024288	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1215 is not less than or equal to 300
+REQUEST	79		ConsultarEstadoCuentas	1745973023071	1745973024288	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1217 is not less than or equal to 300
+USER	Consultar estado de cuentas	79	END	1745973023070	1745973024289
+USER	Consultar estado de cuentas	110	END	1745973023073	1745973024289
+REQUEST	61		ConsultarEstadoCuentas	1745973023069	1745973024291	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1222 is not less than or equal to 300
+REQUEST	151		ConsultarEstadoCuentas	1745973023077	1745973024291	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1214 is not less than or equal to 300
+REQUEST	2		ConsultarEstadoCuentas	1745973023051	1745973024291	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1240 is not less than or equal to 300
+REQUEST	24		ConsultarEstadoCuentas	1745973023050	1745973024291	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1241 is not less than or equal to 300
+USER	Consultar estado de cuentas	24	END	1745973022972	1745973024292
+USER	Consultar estado de cuentas	2	END	1745973022946	1745973024292
+USER	Consultar estado de cuentas	61	END	1745973023069	1745973024293
+USER	Consultar estado de cuentas	151	END	1745973023076	1745973024293
+REQUEST	81		ConsultarEstadoCuentas	1745973023071	1745973024294	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1223 is not less than or equal to 300
+REQUEST	91		ConsultarEstadoCuentas	1745973023071	1745973024294	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1223 is not less than or equal to 300
+REQUEST	144		ConsultarEstadoCuentas	1745973023076	1745973024294	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1218 is not less than or equal to 300
+USER	Consultar estado de cuentas	144	END	1745973023076	1745973024295
+USER	Consultar estado de cuentas	81	END	1745973023070	1745973024295
+USER	Consultar estado de cuentas	91	END	1745973023071	1745973024295
+REQUEST	1		ConsultarEstadoCuentas	1745973023050	1745973024297	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1247 is not less than or equal to 300
+USER	Consultar estado de cuentas	1	END	1745973022946	1745973024298
+REQUEST	152		ConsultarEstadoCuentas	1745973023077	1745973024304	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1227 is not less than or equal to 300
+REQUEST	169		ConsultarEstadoCuentas	1745973023078	1745973024305	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1227 is not less than or equal to 300
+USER	Consultar estado de cuentas	152	END	1745973023076	1745973024306
+USER	Consultar estado de cuentas	169	END	1745973023078	1745973024306
+REQUEST	48		ConsultarEstadoCuentas	1745973023068	1745973024309	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1241 is not less than or equal to 300
+USER	Consultar estado de cuentas	48	END	1745973023067	1745973024310
+REQUEST	102		ConsultarEstadoCuentas	1745973023073	1745973024312	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1239 is not less than or equal to 300
+REQUEST	175		ConsultarEstadoCuentas	1745973023079	1745973024312	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1233 is not less than or equal to 300
+USER	Consultar estado de cuentas	175	END	1745973023079	1745973024313
+USER	Consultar estado de cuentas	102	END	1745973023072	1745973024313
+REQUEST	173		ConsultarEstadoCuentas	1745973023078	1745973024315	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1237 is not less than or equal to 300
+USER	Consultar estado de cuentas	173	END	1745973023078	1745973024317
+REQUEST	67		ConsultarEstadoCuentas	1745973023070	1745973024318	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1248 is not less than or equal to 300
+USER	Consultar estado de cuentas	67	END	1745973023069	1745973024319
+REQUEST	157		ConsultarEstadoCuentas	1745973023077	1745973024319	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1242 is not less than or equal to 300
+USER	Consultar estado de cuentas	157	END	1745973023076	1745973024320
+REQUEST	33		ConsultarEstadoCuentas	1745973023066	1745973024321	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1255 is not less than or equal to 300
+REQUEST	136		ConsultarEstadoCuentas	1745973023076	1745973024321	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1245 is not less than or equal to 300
+USER	Consultar estado de cuentas	136	END	1745973023075	1745973024322
+USER	Consultar estado de cuentas	33	END	1745973023065	1745973024322
+REQUEST	165		ConsultarEstadoCuentas	1745973023078	1745973024350	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1272 is not less than or equal to 300
+USER	Consultar estado de cuentas	165	END	1745973023077	1745973024351
+REQUEST	64		ConsultarEstadoCuentas	1745973023069	1745973024352	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1283 is not less than or equal to 300
+USER	Consultar estado de cuentas	64	END	1745973023069	1745973024354
+REQUEST	96		ConsultarEstadoCuentas	1745973023072	1745973024354	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1282 is not less than or equal to 300
+USER	Consultar estado de cuentas	96	END	1745973023071	1745973024355
+REQUEST	70		ConsultarEstadoCuentas	1745973023070	1745973024355	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1285 is not less than or equal to 300
+REQUEST	56		ConsultarEstadoCuentas	1745973023068	1745973024355	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1287 is not less than or equal to 300
+USER	Consultar estado de cuentas	56	END	1745973023068	1745973024356
+USER	Consultar estado de cuentas	70	END	1745973023069	1745973024357
+REQUEST	127		ConsultarEstadoCuentas	1745973023075	1745973024357	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1282 is not less than or equal to 300
+USER	Consultar estado de cuentas	127	END	1745973023074	1745973024358
+REQUEST	45		ConsultarEstadoCuentas	1745973023067	1745973024360	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1293 is not less than or equal to 300
+USER	Consultar estado de cuentas	45	END	1745973023067	1745973024361
+REQUEST	129		ConsultarEstadoCuentas	1745973023075	1745973024362	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1287 is not less than or equal to 300
+USER	Consultar estado de cuentas	129	END	1745973023074	1745973024365
+REQUEST	198		ConsultarEstadoCuentas	1745973023081	1745973024366	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1285 is not less than or equal to 300
+USER	Consultar estado de cuentas	198	END	1745973023081	1745973024367
+REQUEST	174		ConsultarEstadoCuentas	1745973023078	1745973024370	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1292 is not less than or equal to 300
+REQUEST	104		ConsultarEstadoCuentas	1745973023073	1745973024370	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1297 is not less than or equal to 300
+USER	Consultar estado de cuentas	104	END	1745973023072	1745973024371
+USER	Consultar estado de cuentas	174	END	1745973023078	1745973024371
+REQUEST	38		ConsultarEstadoCuentas	1745973023067	1745973024372	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1305 is not less than or equal to 300
+REQUEST	197		ConsultarEstadoCuentas	1745973023081	1745973024372	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1291 is not less than or equal to 300
+REQUEST	142		ConsultarEstadoCuentas	1745973023076	1745973024373	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1297 is not less than or equal to 300
+USER	Consultar estado de cuentas	38	END	1745973023066	1745973024373
+USER	Consultar estado de cuentas	142	END	1745973023075	1745973024373
+USER	Consultar estado de cuentas	197	END	1745973023080	1745973024375
+REQUEST	55		ConsultarEstadoCuentas	1745973023068	1745973024375	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1307 is not less than or equal to 300
+REQUEST	138		ConsultarEstadoCuentas	1745973023076	1745973024375	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1299 is not less than or equal to 300
+USER	Consultar estado de cuentas	55	END	1745973023068	1745973024376
+USER	Consultar estado de cuentas	138	END	1745973023075	1745973024376
+REQUEST	101		ConsultarEstadoCuentas	1745973023073	1745973024377	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1304 is not less than or equal to 300
+USER	Consultar estado de cuentas	101	END	1745973023072	1745973024378
+REQUEST	69		ConsultarEstadoCuentas	1745973023072	1745973024379	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1307 is not less than or equal to 300
+USER	Consultar estado de cuentas	69	END	1745973023069	1745973024380
+REQUEST	156		ConsultarEstadoCuentas	1745973023077	1745973024380	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1303 is not less than or equal to 300
+USER	Consultar estado de cuentas	156	END	1745973023076	1745973024381
+REQUEST	35		ConsultarEstadoCuentas	1745973023066	1745973024410	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1344 is not less than or equal to 300
+REQUEST	53		ConsultarEstadoCuentas	1745973023068	1745973024410	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1342 is not less than or equal to 300
+REQUEST	135		ConsultarEstadoCuentas	1745973023076	1745973024411	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1335 is not less than or equal to 300
+USER	Consultar estado de cuentas	35	END	1745973023066	1745973024411
+USER	Consultar estado de cuentas	53	END	1745973023068	1745973024412
+USER	Consultar estado de cuentas	135	END	1745973023075	1745973024412
+REQUEST	196		ConsultarEstadoCuentas	1745973023081	1745973024412	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1331 is not less than or equal to 300
+REQUEST	167		ConsultarEstadoCuentas	1745973023078	1745973024413	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1335 is not less than or equal to 300
+USER	Consultar estado de cuentas	196	END	1745973023080	1745973024413
+USER	Consultar estado de cuentas	167	END	1745973023078	1745973024414
+REQUEST	170		ConsultarEstadoCuentas	1745973023078	1745973024414	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1336 is not less than or equal to 300
+REQUEST	75		ConsultarEstadoCuentas	1745973023070	1745973024414	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1344 is not less than or equal to 300
+REQUEST	120		ConsultarEstadoCuentas	1745973023074	1745973024415	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1341 is not less than or equal to 300
+USER	Consultar estado de cuentas	170	END	1745973023078	1745973024415
+USER	Consultar estado de cuentas	120	END	1745973023073	1745973024416
+USER	Consultar estado de cuentas	75	END	1745973023070	1745973024416
+REQUEST	148		ConsultarEstadoCuentas	1745973023076	1745973024419	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1343 is not less than or equal to 300
+REQUEST	166		ConsultarEstadoCuentas	1745973023078	1745973024419	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1341 is not less than or equal to 300
+USER	Consultar estado de cuentas	148	END	1745973023076	1745973024420
+USER	Consultar estado de cuentas	166	END	1745973023077	1745973024420
+REQUEST	182		ConsultarEstadoCuentas	1745973023079	1745973024497	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1418 is not less than or equal to 300
+REQUEST	82		ConsultarEstadoCuentas	1745973023071	1745973024497	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1426 is not less than or equal to 300
+REQUEST	113		ConsultarEstadoCuentas	1745973023073	1745973024497	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1424 is not less than or equal to 300
+REQUEST	192		ConsultarEstadoCuentas	1745973023081	1745973024497	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1416 is not less than or equal to 300
+REQUEST	76		ConsultarEstadoCuentas	1745973023071	1745973024497	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1426 is not less than or equal to 300
+REQUEST	189		ConsultarEstadoCuentas	1745973023081	1745973024498	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1417 is not less than or equal to 300
+USER	Consultar estado de cuentas	76	END	1745973023070	1745973024498
+USER	Consultar estado de cuentas	189	END	1745973023079	1745973024498
+USER	Consultar estado de cuentas	182	END	1745973023079	1745973024498
+USER	Consultar estado de cuentas	192	END	1745973023080	1745973024498
+USER	Consultar estado de cuentas	82	END	1745973023070	1745973024498
+USER	Consultar estado de cuentas	113	END	1745973023073	1745973024498
+REQUEST	87		ConsultarEstadoCuentas	1745973023071	1745973024499	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1428 is not less than or equal to 300
+REQUEST	118		ConsultarEstadoCuentas	1745973023074	1745973024500	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1426 is not less than or equal to 300
+USER	Consultar estado de cuentas	87	END	1745973023071	1745973024501
+USER	Consultar estado de cuentas	118	END	1745973023073	1745973024502
+REQUEST	77		ConsultarEstadoCuentas	1745973023071	1745973024509	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1438 is not less than or equal to 300
+USER	Consultar estado de cuentas	77	END	1745973023070	1745973024510
+REQUEST	149		ConsultarEstadoCuentas	1745973023076	1745973024512	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1436 is not less than or equal to 300
+REQUEST	153		ConsultarEstadoCuentas	1745973023077	1745973024513	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1436 is not less than or equal to 300
+USER	Consultar estado de cuentas	149	END	1745973023076	1745973024514
+USER	Consultar estado de cuentas	153	END	1745973023076	1745973024514
+REQUEST	185		ConsultarEstadoCuentas	1745973023081	1745973024514	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1433 is not less than or equal to 300
+USER	Consultar estado de cuentas	185	END	1745973023079	1745973024516
+REQUEST	150		ConsultarEstadoCuentas	1745973023076	1745973024517	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1441 is not less than or equal to 300
+USER	Consultar estado de cuentas	150	END	1745973023076	1745973024518
+REQUEST	162		ConsultarEstadoCuentas	1745973023078	1745973024519	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1441 is not less than or equal to 300
+USER	Consultar estado de cuentas	162	END	1745973023077	1745973024520
+REQUEST	19		ConsultarEstadoCuentas	1745973023050	1745973024526	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1476 is not less than or equal to 300
+USER	Consultar estado de cuentas	19	END	1745973022951	1745973024527
+REQUEST	143		ConsultarEstadoCuentas	1745973023076	1745973024528	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1452 is not less than or equal to 300
+USER	Consultar estado de cuentas	143	END	1745973023076	1745973024529
+REQUEST	130		ConsultarEstadoCuentas	1745973023075	1745973024560	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1485 is not less than or equal to 300
+REQUEST	52		ConsultarEstadoCuentas	1745973023068	1745973024560	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1492 is not less than or equal to 300
+USER	Consultar estado de cuentas	130	END	1745973023074	1745973024561
+USER	Consultar estado de cuentas	52	END	1745973023067	1745973024562
+REQUEST	84		ConsultarEstadoCuentas	1745973023071	1745973024564	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1493 is not less than or equal to 300
+USER	Consultar estado de cuentas	84	END	1745973023071	1745973024565
+REQUEST	97		ConsultarEstadoCuentas	1745973023072	1745973024565	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1493 is not less than or equal to 300
+USER	Consultar estado de cuentas	97	END	1745973023071	1745973024566
+REQUEST	7		ConsultarEstadoCuentas	1745973023050	1745973024566	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1516 is not less than or equal to 300
+USER	Consultar estado de cuentas	7	END	1745973022947	1745973024568
+REQUEST	199		ConsultarEstadoCuentas	1745973023081	1745973024569	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1488 is not less than or equal to 300
+USER	Consultar estado de cuentas	199	END	1745973023081	1745973024571
+REQUEST	178		ConsultarEstadoCuentas	1745973023079	1745973024571	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1492 is not less than or equal to 300
+USER	Consultar estado de cuentas	178	END	1745973023079	1745973024573
+REQUEST	183		ConsultarEstadoCuentas	1745973023080	1745973024573	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1493 is not less than or equal to 300
+USER	Consultar estado de cuentas	183	END	1745973023079	1745973024574
+REQUEST	160		ConsultarEstadoCuentas	1745973023081	1745973024576	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1495 is not less than or equal to 300
+USER	Consultar estado de cuentas	160	END	1745973023077	1745973024577
+REQUEST	28		ConsultarEstadoCuentas	1745973023066	1745973024577	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1511 is not less than or equal to 300
+USER	Consultar estado de cuentas	28	END	1745973023065	1745973024578
+REQUEST	190		ConsultarEstadoCuentas	1745973023080	1745973024578	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1498 is not less than or equal to 300
+REQUEST	100		ConsultarEstadoCuentas	1745973023072	1745973024578	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1506 is not less than or equal to 300
+USER	Consultar estado de cuentas	100	END	1745973023072	1745973024579
+USER	Consultar estado de cuentas	190	END	1745973023079	1745973024579
+REQUEST	95		ConsultarEstadoCuentas	1745973023072	1745973024580	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1508 is not less than or equal to 300
+REQUEST	114		ConsultarEstadoCuentas	1745973023073	1745973024593	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1520 is not less than or equal to 300
+REQUEST	187		ConsultarEstadoCuentas	1745973023087	1745973024593	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1506 is not less than or equal to 300
+USER	Consultar estado de cuentas	114	END	1745973023073	1745973024594
+REQUEST	94		ConsultarEstadoCuentas	1745973023072	1745973024595	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1523 is not less than or equal to 300
+REQUEST	188		ConsultarEstadoCuentas	1745973023080	1745973024594	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1514 is not less than or equal to 300
+REQUEST	194		ConsultarEstadoCuentas	1745973023081	1745973024595	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1514 is not less than or equal to 300
+REQUEST	184		ConsultarEstadoCuentas	1745973023081	1745973024595	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1514 is not less than or equal to 300
+REQUEST	180		ConsultarEstadoCuentas	1745973023079	1745973024595	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1516 is not less than or equal to 300
+USER	Consultar estado de cuentas	95	END	1745973023071	1745973024595
+USER	Consultar estado de cuentas	94	END	1745973023071	1745973024596
+USER	Consultar estado de cuentas	194	END	1745973023080	1745973024596
+USER	Consultar estado de cuentas	184	END	1745973023079	1745973024596
+USER	Consultar estado de cuentas	188	END	1745973023079	1745973024596
+USER	Consultar estado de cuentas	187	END	1745973023079	1745973024596
+USER	Consultar estado de cuentas	180	END	1745973023079	1745973024597
+REQUEST	8		ConsultarEstadoCuentas	1745973023050	1745973024597	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1547 is not less than or equal to 300
+REQUEST	27		ConsultarEstadoCuentas	1745973023066	1745973024598	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1532 is not less than or equal to 300
+USER	Consultar estado de cuentas	8	END	1745973022947	1745973024598
+REQUEST	65		ConsultarEstadoCuentas	1745973023069	1745973024599	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1530 is not less than or equal to 300
+USER	Consultar estado de cuentas	65	END	1745973023069	1745973024600
+USER	Consultar estado de cuentas	27	END	1745973023065	1745973024600
+REQUEST	164		ConsultarEstadoCuentas	1745973023078	1745973024600	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1522 is not less than or equal to 300
+REQUEST	137		ConsultarEstadoCuentas	1745973023082	1745973024601	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1519 is not less than or equal to 300
+USER	Consultar estado de cuentas	137	END	1745973023075	1745973024601
+USER	Consultar estado de cuentas	164	END	1745973023077	1745973024601
+REQUEST	107		ConsultarEstadoCuentas	1745973023073	1745973024601	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1528 is not less than or equal to 300
+USER	Consultar estado de cuentas	107	END	1745973023072	1745973024602
+REQUEST	177		ConsultarEstadoCuentas	1745973023079	1745973024607	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1528 is not less than or equal to 300
+USER	Consultar estado de cuentas	177	END	1745973023079	1745973024608
+REQUEST	119		ConsultarEstadoCuentas	1745973023074	1745973024608	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1534 is not less than or equal to 300
+REQUEST	123		ConsultarEstadoCuentas	1745973023074	1745973024608	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1534 is not less than or equal to 300
+USER	Consultar estado de cuentas	123	END	1745973023073	1745973024609
+USER	Consultar estado de cuentas	119	END	1745973023073	1745973024609
+REQUEST	89		ConsultarEstadoCuentas	1745973023071	1745973024609	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1538 is not less than or equal to 300
+USER	Consultar estado de cuentas	89	END	1745973023071	1745973024610
+REQUEST	37		ConsultarEstadoCuentas	1745973023066	1745973024611	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1545 is not less than or equal to 300
+USER	Consultar estado de cuentas	37	END	1745973023066	1745973024617
+REQUEST	191		ConsultarEstadoCuentas	1745973023080	1745973024617	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1537 is not less than or equal to 300
+REQUEST	116		ConsultarEstadoCuentas	1745973023073	1745973024617	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1544 is not less than or equal to 300
+USER	Consultar estado de cuentas	191	END	1745973023080	1745973024618
+USER	Consultar estado de cuentas	116	END	1745973023073	1745973024618
+REQUEST	44		ConsultarEstadoCuentas	1745973023068	1745973024622	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1554 is not less than or equal to 300
+REQUEST	146		ConsultarEstadoCuentas	1745973023076	1745973024622	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1546 is not less than or equal to 300
+REQUEST	20		ConsultarEstadoCuentas	1745973023050	1745973024622	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1572 is not less than or equal to 300
+USER	Consultar estado de cuentas	20	END	1745973022952	1745973024623
+USER	Consultar estado de cuentas	146	END	1745973023076	1745973024623
+USER	Consultar estado de cuentas	44	END	1745973023067	1745973024623
+REQUEST	34		ConsultarEstadoCuentas	1745973023066	1745973024624	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1558 is not less than or equal to 300
+USER	Consultar estado de cuentas	34	END	1745973023066	1745973024626
+REQUEST	159		ConsultarEstadoCuentas	1745973023078	1745973024626	KO	responseTimeInMillis.find.lessThanOrEqual(300), 1548 is not less than or equal to 300
+USER	Consultar estado de cuentas	159	END	1745973023077	1745973024628
+REQUEST	43		ConsultarEstadoCuentas	1745973023067	1745973025449	KO	responseTimeInMillis.find.lessThanOrEqual(300), 2382 is not less than or equal to 300
+REQUEST	46		ConsultarEstadoCuentas	1745973023067	1745973025449	KO	responseTimeInMillis.find.lessThanOrEqual(300), 2382 is not less than or equal to 300
+REQUEST	124		ConsultarEstadoCuentas	1745973023074	1745973025450	KO	responseTimeInMillis.find.lessThanOrEqual(300), 2376 is not less than or equal to 300
+REQUEST	117		ConsultarEstadoCuentas	1745973023074	1745973025451	KO	responseTimeInMillis.find.lessThanOrEqual(300), 2377 is not less than or equal to 300
+USER	Consultar estado de cuentas	124	END	1745973023073	1745973025451
+USER	Consultar estado de cuentas	46	END	1745973023067	1745973025451
+REQUEST	131		ConsultarEstadoCuentas	1745973023082	1745973025450	KO	responseTimeInMillis.find.lessThanOrEqual(300), 2368 is not less than or equal to 300
+REQUEST	11		ConsultarEstadoCuentas	1745973023050	1745973025452	KO	responseTimeInMillis.find.lessThanOrEqual(300), 2402 is not less than or equal to 300
+USER	Consultar estado de cuentas	43	END	1745973023066	1745973025451
+USER	Consultar estado de cuentas	131	END	1745973023074	1745973025452
+USER	Consultar estado de cuentas	117	END	1745973023073	1745973025453
+USER	Consultar estado de cuentas	11	END	1745973022948	1745973025453
+REQUEST	193		ConsultarEstadoCuentas	1745973023081	1745973025453	KO	responseTimeInMillis.find.lessThanOrEqual(300), 2372 is not less than or equal to 300
+USER	Consultar estado de cuentas	193	END	1745973023080	1745973025454
+REQUEST	179		ConsultarEstadoCuentas	1745973023079	1745973025455	KO	responseTimeInMillis.find.lessThanOrEqual(300), 2376 is not less than or equal to 300
+USER	Consultar estado de cuentas	179	END	1745973023079	1745973025456
+REQUEST	163		ConsultarEstadoCuentas	1745973023078	1745973025457	KO	responseTimeInMillis.find.lessThanOrEqual(300), 2379 is not less than or equal to 300
+USER	Consultar estado de cuentas	163	END	1745973023077	1745973025457
+REQUEST	83		ConsultarEstadoCuentas	1745973023071	1745973025459	KO	responseTimeInMillis.find.lessThanOrEqual(300), 2388 is not less than or equal to 300
+USER	Consultar estado de cuentas	83	END	1745973023070	1745973025460
+REQUEST	108		ConsultarEstadoCuentas	1745973023073	1745973025506	KO	responseTimeInMillis.find.lessThanOrEqual(300), 2433 is not less than or equal to 300
+USER	Consultar estado de cuentas	108	END	1745973023072	1745973025507
+REQUEST	50		ConsultarEstadoCuentas	1745973023068	1745973025508	KO	responseTimeInMillis.find.lessThanOrEqual(300), 2440 is not less than or equal to 300
+USER	Consultar estado de cuentas	50	END	1745973023067	1745973025509
+REQUEST	139		ConsultarEstadoCuentas	1745973023076	1745973025511	KO	responseTimeInMillis.find.lessThanOrEqual(300), 2435 is not less than or equal to 300
+USER	Consultar estado de cuentas	139	END	1745973023075	1745973025512
+REQUEST	155		ConsultarEstadoCuentas	1745973023077	1745973025512	KO	responseTimeInMillis.find.lessThanOrEqual(300), 2435 is not less than or equal to 300
+USER	Consultar estado de cuentas	155	END	1745973023076	1745973025513
+REQUEST	172		ConsultarEstadoCuentas	1745973023078	1745973025514	KO	responseTimeInMillis.find.lessThanOrEqual(300), 2436 is not less than or equal to 300
+REQUEST	147		ConsultarEstadoCuentas	1745973023076	1745973025514	KO	responseTimeInMillis.find.lessThanOrEqual(300), 2438 is not less than or equal to 300
+USER	Consultar estado de cuentas	147	END	1745973023076	1745973025515
+USER	Consultar estado de cuentas	172	END	1745973023078	1745973025515
+REQUEST	111		ConsultarEstadoCuentas	1745973023073	1745973025515	KO	responseTimeInMillis.find.lessThanOrEqual(300), 2442 is not less than or equal to 300
+USER	Consultar estado de cuentas	111	END	1745973023073	1745973025516

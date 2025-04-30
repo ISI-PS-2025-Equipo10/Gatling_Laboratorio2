@@ -1,0 +1,10 @@
+{
+  "simulation": "parabank.ConsultarEstadoCuentasTest",
+  "simulationId": "consultarestadocuentastest",
+  "start": 1745973020721,
+  "description": "",
+  "scenarios": ["Consultar estado de cuentas"],
+  "assertions": [
+
+  ]
+}
