@@ -9,4 +9,11 @@ object Data{
     val toAccountId = 18450
     val ammountTransfer = 1
 
+    val amountBill = 25
+    val name = "Factura de agua"
+    val street = "Calle 123"
+    val city = "Medellín"
+    val state = "Antioquia"
+    val zipCode = "050001"
+    val phoneNumber = "514122"
 }
