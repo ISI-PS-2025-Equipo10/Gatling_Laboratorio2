@@ -1,0 +1,8 @@
+<testsuite name="parabank.LoginTest" tests="2" errors="0" failures="2" time="0">
+<testcase name="Could not find stats matching assertion path List(Login 100/login_100)" status="false" time="0">
+  <failure type="Login 100/login_100">Actual value: -1</failure>
+</testcase>
+<testcase name="Could not find stats matching assertion path List(Login 200/login_200)" status="false" time="0">
+  <failure type="Login 200/login_200">Actual value: -1</failure>
+</testcase>
+</testsuite>

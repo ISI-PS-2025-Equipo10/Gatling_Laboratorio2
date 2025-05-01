@@ -22,6 +22,18 @@ class LoginTest extends Simulation{
 
   // 3 Load Scenario
   setUp(
-    scn.inject(rampUsersPerSec(5).to(15).during(30))
-  ).protocols(httpConf);
+    scn.inject(
+      atOnceUsers(100), // carga 100
+      nothingFor(5),
+      atOnceUsers(100)  // luego carga 200
+  ) 
+      
+  ).protocols(httpConf)
+    .assertions(
+      // Durante la carga normal: 100 usuarios
+      details("login").responseTime.max.lte(2000),  // Tiempo máximo de respuesta ≤ 2s 
+      // Durante la carga completa: 200 usuarios
+      global.responseTime.max.lte(5000)     // Tiempo máximo de respuesta ≤ 5s
+    )
+  ;
 }
