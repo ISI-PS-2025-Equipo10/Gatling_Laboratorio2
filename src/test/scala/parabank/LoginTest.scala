@@ -20,7 +20,7 @@ class LoginTest extends Simulation{
       .check(status.is(200))
     )
 
-  // 3 Load Scenario
+  // 3 Load Scenario 
   setUp(
     scn.inject(
       atOnceUsers(100), // carga 100
