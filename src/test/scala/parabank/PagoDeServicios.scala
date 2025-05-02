@@ -14,11 +14,11 @@ class PagoDeServicios extends Simulation {
 
   // 2 Scenario Definition
   val scn = scenario("Pago de servicios con concurrencia alta")
-    .exec(
-      http("PagoDeServicios")
-        .post(s"/billpay?accountId=$fromAccountId&amount=$amountBill")
-        .body(StringBody(
-          s"""{
+      .exec(
+        http("PagoDeServicios")
+          .post(s"/billpay?accountId=$fromAccountId&amount=$amountBill")
+          .body(StringBody(
+            s"""{
             "name": "$name",
             "address": {
               "street": "$street",
@@ -29,9 +29,17 @@ class PagoDeServicios extends Simulation {
             "phoneNumber": "$phoneNumber",
             "accountNumber": $fromAccountId
           }"""
-        )).asJson
-        .check(status.is(200)) // Espera respuesta 200
-    )
+          )).asJson
+          .check(status.is(200))
+      )
+      .pause(1) // espera breve para que el pago sea procesado
+      .exec(
+        http("VerificarTransaccionUnica")
+          .get(s"/accounts/$fromAccountId/transactions")
+          .check(
+            jsonPath("$[?(@.amount == " + amountBill + " && @.type == 'Bill Payment')]").count.is(1)
+          )
+      )
 
   // 3 Load Scenario
   setUp(
