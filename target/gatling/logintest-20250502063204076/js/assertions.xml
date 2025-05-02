@@ -1,0 +1,8 @@
+<testsuite name="parabank.LoginTest" tests="2" errors="0" failures="2" time="0">
+<testcase name="login: max of response time is less than or equal to 2000.0" status="false" time="0">
+  <failure type="login">Actual value: 10420.0</failure>
+</testcase>
+<testcase name="Global: max of response time is less than or equal to 5000.0" status="false" time="0">
+  <failure type="Global">Actual value: 10420.0</failure>
+</testcase>
+</testsuite>

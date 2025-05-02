@@ -1,0 +1,5 @@
+<testsuite name="parabank.EscalabilidadEnTransaccTest" tests="1" errors="0" failures="0" time="0">
+<testcase name="EscalabilidadEnTransacc: percentage of successful events is less than or equal to 100.0" status="true" time="0">
+  <system-out>EscalabilidadEnTransacc: percentage of successful events is less than or equal to 100.0</system-out>
+</testcase>
+</testsuite>
