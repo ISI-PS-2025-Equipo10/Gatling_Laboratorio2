@@ -31,7 +31,7 @@ class LoginTest extends Simulation{
   ).protocols(httpConf)
     .assertions(
       // Durante la carga normal: 100 usuarios
-      details("login").responseTime.max.lte(2000),  // Tiempo máximo de respuesta ≤ 2s 
+      forAll.responseTime.max.lte(2000),  // Tiempo máximo de respuesta ≤ 2s 
       // Durante la carga completa: 200 usuarios
       global.responseTime.max.lte(5000)     // Tiempo máximo de respuesta ≤ 5s
     )
