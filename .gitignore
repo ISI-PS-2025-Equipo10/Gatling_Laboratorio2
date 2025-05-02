@@ -1,0 +1,10 @@
+target/
+.bloop
+.metals
+.scalafmt.conf
+target/inc_compile.zip
+target/gatling/logintest-20250502063204076/style/style.css
+target/gatling/logintest-20250502063204076/style/stat-l-temps.png
+target/gatling/logintest-20250502063204076/style/stat-l-temps.png
+target/gatling/logintest-20250502063204076/style/stat-l-temps.png
+target/gatling/logintest-20250502063204076/style/stat-l-temps.png
