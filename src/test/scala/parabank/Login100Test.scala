@@ -28,7 +28,7 @@ class Login100Test extends Simulation{
       
   ).protocols(httpConf)
     .assertions(
-      global.responseTime.max.lte(2000),      // Tiempo máximo de respuesta ≤ 2s
+      global.responseTime.max.lte(2000),     // Tiempo máximo de respuesta ≤ 2s
     )
   ;
 }
